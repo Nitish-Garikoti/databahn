@@ -1,0 +1,101 @@
+threat_actors,latest_malware,global_alerts,cve_id
+Lazarus Group,TrickBot,Alert: Zero-day vulnerability discovered in popular web browser.,CVE-2024-60850
+Lazarus Group,Qakbot,Alert: New malware campaign exploiting a critical vulnerability.,CVE-2024-70058
+Cozy Bear,Emotet,Alert: Increased activity from state-sponsored threat actors.,CVE-2024-10141
+Lazarus Group,Industroyer,Alert: New phishing campaign targeting financial institutions.,CVE-2024-58302
+Dragonfly,Emotet,Alert: Ransomware attack targeting healthcare organizations.,CVE-2024-62654
+Sandworm,TrickBot,Alert: Ransomware attack targeting healthcare organizations.,CVE-2024-17555
+APT28,Industroyer,Alert: Zero-day vulnerability discovered in popular web browser.,CVE-2024-62768
+Cozy Bear,Petya,Alert: New malware campaign exploiting a critical vulnerability.,CVE-2024-39690
+Cozy Bear,TrickBot,Alert: Zero-day vulnerability discovered in popular web browser.,CVE-2024-57981
+Dragonfly,TrickBot,Alert: Increased activity from state-sponsored threat actors.,CVE-2024-83764
+Dragonfly,TrickBot,Alert: Zero-day vulnerability discovered in popular web browser.,CVE-2024-46475
+Cozy Bear,Industroyer,Alert: Increased activity from state-sponsored threat actors.,CVE-2024-90720
+APT28,Emotet,Alert: Zero-day vulnerability discovered in popular web browser.,CVE-2024-47193
+Cozy Bear,Emotet,Alert: New malware campaign exploiting a critical vulnerability.,CVE-2024-10409
+Lazarus Group,Qakbot,Alert: New malware campaign exploiting a critical vulnerability.,CVE-2024-43849
+Sandworm,Industroyer,Alert: Increased activity from state-sponsored threat actors.,CVE-2024-89455
+Cozy Bear,TrickBot,Alert: Ransomware attack targeting healthcare organizations.,CVE-2024-17558
+Lazarus Group,TrickBot,Alert: New phishing campaign targeting financial institutions.,CVE-2024-82702
+APT28,Emotet,Alert: Zero-day vulnerability discovered in popular web browser.,CVE-2024-88200
+Cozy Bear,Industroyer,Alert: Increased activity from state-sponsored threat actors.,CVE-2024-54348
+Lazarus Group,TrickBot,Alert: Zero-day vulnerability discovered in popular web browser.,CVE-2024-96777
+Cozy Bear,TrickBot,Alert: New phishing campaign targeting financial institutions.,CVE-2024-15854
+Sandworm,Qakbot,Alert: New phishing campaign targeting financial institutions.,CVE-2024-98855
+APT28,Emotet,Alert: Ransomware attack targeting healthcare organizations.,CVE-2024-60151
+Cozy Bear,TrickBot,Alert: Increased activity from state-sponsored threat actors.,CVE-2024-55453
+Lazarus Group,Industroyer,Alert: Increased activity from state-sponsored threat actors.,CVE-2024-69831
+Dragonfly,Qakbot,Alert: Zero-day vulnerability discovered in popular web browser.,CVE-2024-98381
+Sandworm,Qakbot,Alert: Increased activity from state-sponsored threat actors.,CVE-2024-87675
+APT28,TrickBot,Alert: New phishing campaign targeting financial institutions.,CVE-2024-31256
+Dragonfly,Emotet,Alert: Ransomware attack targeting healthcare organizations.,CVE-2024-76223
+Cozy Bear,Qakbot,Alert: New phishing campaign targeting financial institutions.,CVE-2024-67674
+APT28,Industroyer,Alert: Ransomware attack targeting healthcare organizations.,CVE-2024-57375
+Dragonfly,TrickBot,Alert: Increased activity from state-sponsored threat actors.,CVE-2024-57541
+Lazarus Group,Industroyer,Alert: Increased activity from state-sponsored threat actors.,CVE-2024-44652
+Cozy Bear,Emotet,Alert: Zero-day vulnerability discovered in popular web browser.,CVE-2024-22757
+Dragonfly,Petya,Alert: Ransomware attack targeting healthcare organizations.,CVE-2024-37692
+APT28,Qakbot,Alert: New malware campaign exploiting a critical vulnerability.,CVE-2024-62782
+Sandworm,Petya,Alert: New malware campaign exploiting a critical vulnerability.,CVE-2024-53989
+Dragonfly,Qakbot,Alert: Ransomware attack targeting healthcare organizations.,CVE-2024-28005
+Lazarus Group,Petya,Alert: New malware campaign exploiting a critical vulnerability.,CVE-2024-19152
+Sandworm,Petya,Alert: Increased activity from state-sponsored threat actors.,CVE-2024-85099
+Cozy Bear,Emotet,Alert: Ransomware attack targeting healthcare organizations.,CVE-2024-13123
+Cozy Bear,Emotet,Alert: Ransomware attack targeting healthcare organizations.,CVE-2024-35124
+Cozy Bear,TrickBot,Alert: Zero-day vulnerability discovered in popular web browser.,CVE-2024-91722
+Sandworm,Qakbot,Alert: Increased activity from state-sponsored threat actors.,CVE-2024-96555
+Sandworm,Emotet,Alert: New malware campaign exploiting a critical vulnerability.,CVE-2024-91810
+Sandworm,TrickBot,Alert: Increased activity from state-sponsored threat actors.,CVE-2024-45262
+Lazarus Group,Qakbot,Alert: Ransomware attack targeting healthcare organizations.,CVE-2024-39809
+Dragonfly,TrickBot,Alert: New phishing campaign targeting financial institutions.,CVE-2024-78265
+Dragonfly,Qakbot,Alert: New malware campaign exploiting a critical vulnerability.,CVE-2024-29305
+Cozy Bear,Industroyer,Alert: Zero-day vulnerability discovered in popular web browser.,CVE-2024-68108
+Cozy Bear,Petya,Alert: Zero-day vulnerability discovered in popular web browser.,CVE-2024-58653
+APT28,Qakbot,Alert: Ransomware attack targeting healthcare organizations.,CVE-2024-17724
+Cozy Bear,TrickBot,Alert: New malware campaign exploiting a critical vulnerability.,CVE-2024-97083
+APT28,Petya,Alert: Increased activity from state-sponsored threat actors.,CVE-2024-44966
+Sandworm,Industroyer,Alert: Increased activity from state-sponsored threat actors.,CVE-2024-98976
+Cozy Bear,Emotet,Alert: Increased activity from state-sponsored threat actors.,CVE-2024-90482
+Dragonfly,Qakbot,Alert: Zero-day vulnerability discovered in popular web browser.,CVE-2024-27247
+APT28,TrickBot,Alert: New phishing campaign targeting financial institutions.,CVE-2024-19945
+Sandworm,Qakbot,Alert: Zero-day vulnerability discovered in popular web browser.,CVE-2024-24539
+Sandworm,Qakbot,Alert: New phishing campaign targeting financial institutions.,CVE-2024-73729
+APT28,Petya,Alert: Zero-day vulnerability discovered in popular web browser.,CVE-2024-27466
+Cozy Bear,Petya,Alert: Ransomware attack targeting healthcare organizations.,CVE-2024-84927
+Sandworm,Emotet,Alert: New malware campaign exploiting a critical vulnerability.,CVE-2024-91957
+Dragonfly,Qakbot,Alert: New phishing campaign targeting financial institutions.,CVE-2024-27342
+Cozy Bear,Petya,Alert: Increased activity from state-sponsored threat actors.,CVE-2024-51536
+APT28,Emotet,Alert: New phishing campaign targeting financial institutions.,CVE-2024-60276
+Lazarus Group,Qakbot,Alert: New malware campaign exploiting a critical vulnerability.,CVE-2024-91619
+APT28,Emotet,Alert: Zero-day vulnerability discovered in popular web browser.,CVE-2024-70756
+Sandworm,Emotet,Alert: Increased activity from state-sponsored threat actors.,CVE-2024-79911
+Sandworm,TrickBot,Alert: Ransomware attack targeting healthcare organizations.,CVE-2024-17352
+Sandworm,Qakbot,Alert: Increased activity from state-sponsored threat actors.,CVE-2024-44129
+APT28,Industroyer,Alert: Ransomware attack targeting healthcare organizations.,CVE-2024-82149
+Dragonfly,TrickBot,Alert: Zero-day vulnerability discovered in popular web browser.,CVE-2024-22762
+Sandworm,TrickBot,Alert: Increased activity from state-sponsored threat actors.,CVE-2024-77606
+Lazarus Group,Emotet,Alert: Increased activity from state-sponsored threat actors.,CVE-2024-41117
+Dragonfly,Petya,Alert: Ransomware attack targeting healthcare organizations.,CVE-2024-36480
+Cozy Bear,TrickBot,Alert: Ransomware attack targeting healthcare organizations.,CVE-2024-20766
+Dragonfly,Emotet,Alert: New malware campaign exploiting a critical vulnerability.,CVE-2024-25989
+Dragonfly,Petya,Alert: New malware campaign exploiting a critical vulnerability.,CVE-2024-47925
+Dragonfly,Petya,Alert: Ransomware attack targeting healthcare organizations.,CVE-2024-64290
+Cozy Bear,TrickBot,Alert: New phishing campaign targeting financial institutions.,CVE-2024-86760
+APT28,Industroyer,Alert: New phishing campaign targeting financial institutions.,CVE-2024-83213
+Lazarus Group,TrickBot,Alert: New malware campaign exploiting a critical vulnerability.,CVE-2024-15343
+Cozy Bear,Emotet,Alert: Zero-day vulnerability discovered in popular web browser.,CVE-2024-33870
+APT28,Petya,Alert: New phishing campaign targeting financial institutions.,CVE-2024-37404
+Cozy Bear,Industroyer,Alert: Zero-day vulnerability discovered in popular web browser.,CVE-2024-22340
+Lazarus Group,Industroyer,Alert: Zero-day vulnerability discovered in popular web browser.,CVE-2024-72060
+Dragonfly,Petya,Alert: Zero-day vulnerability discovered in popular web browser.,CVE-2024-17384
+Sandworm,TrickBot,Alert: New malware campaign exploiting a critical vulnerability.,CVE-2024-28024
+Sandworm,Qakbot,Alert: Zero-day vulnerability discovered in popular web browser.,CVE-2024-41984
+Sandworm,Petya,Alert: Increased activity from state-sponsored threat actors.,CVE-2024-18597
+APT28,Emotet,Alert: Ransomware attack targeting healthcare organizations.,CVE-2024-54047
+Lazarus Group,TrickBot,Alert: New malware campaign exploiting a critical vulnerability.,CVE-2024-12278
+Lazarus Group,Emotet,Alert: New malware campaign exploiting a critical vulnerability.,CVE-2024-91210
+Cozy Bear,Industroyer,Alert: New malware campaign exploiting a critical vulnerability.,CVE-2024-34221
+APT28,Emotet,Alert: Increased activity from state-sponsored threat actors.,CVE-2024-27581
+Dragonfly,Qakbot,Alert: New phishing campaign targeting financial institutions.,CVE-2024-19254
+Lazarus Group,Petya,Alert: New phishing campaign targeting financial institutions.,CVE-2024-79924
+Lazarus Group,Industroyer,Alert: New phishing campaign targeting financial institutions.,CVE-2024-48186

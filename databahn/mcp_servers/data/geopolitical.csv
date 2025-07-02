@@ -1,0 +1,101 @@
+region,threat_group,targeted_sector,activity_summary,cve_id
+Middle East,OilRig (APT34),"Government, Energy",Espionage activity focused on intellectual property theft from tech companies.,CVE-2024-60850
+Eastern Europe,Fancy Bear (APT28),"Technology, Healthcare",Reconnaissance and network intrusions targeting critical infrastructure.,CVE-2024-70058
+Eastern Europe,Stone Panda (APT10),Defense,Disinformation campaigns and influence operations on social media.,CVE-2024-10141
+Southeast Asia,Stone Panda (APT10),"Technology, Healthcare",Increased spear-phishing campaigns observed targeting government entities.,CVE-2024-58302
+Southeast Asia,Stone Panda (APT10),"Government, Energy",Espionage activity focused on intellectual property theft from tech companies.,CVE-2024-62654
+Middle East,Lazarus Group,Defense,Increased spear-phishing campaigns observed targeting government entities.,CVE-2024-17555
+North America,Stone Panda (APT10),"Government, Energy",Reconnaissance and network intrusions targeting critical infrastructure.,CVE-2024-62768
+Middle East,OilRig (APT34),Critical Infrastructure,Disinformation campaigns and influence operations on social media.,CVE-2024-39690
+Southeast Asia,Lazarus Group,Defense,Reconnaissance and network intrusions targeting critical infrastructure.,CVE-2024-57981
+Middle East,Lazarus Group,Defense,Destructive malware deployed against financial institutions.,CVE-2024-83764
+Southeast Asia,Lazarus Group,"Government, Energy",Destructive malware deployed against financial institutions.,CVE-2024-46475
+Middle East,Stone Panda (APT10),Critical Infrastructure,Disinformation campaigns and influence operations on social media.,CVE-2024-90720
+Southeast Asia,OilRig (APT34),"Government, Energy",Destructive malware deployed against financial institutions.,CVE-2024-47193
+Middle East,Fancy Bear (APT28),Defense,Espionage activity focused on intellectual property theft from tech companies.,CVE-2024-10409
+North America,Lazarus Group,"Financial, Government",Espionage activity focused on intellectual property theft from tech companies.,CVE-2024-43849
+North America,OilRig (APT34),"Government, Energy",Reconnaissance and network intrusions targeting critical infrastructure.,CVE-2024-89455
+Eastern Europe,OilRig (APT34),"Government, Energy",Espionage activity focused on intellectual property theft from tech companies.,CVE-2024-17558
+Southeast Asia,Fancy Bear (APT28),Defense,Destructive malware deployed against financial institutions.,CVE-2024-82702
+East Asia,Fancy Bear (APT28),"Government, Energy",Disinformation campaigns and influence operations on social media.,CVE-2024-88200
+Eastern Europe,Stone Panda (APT10),"Technology, Healthcare",Reconnaissance and network intrusions targeting critical infrastructure.,CVE-2024-54348
+Eastern Europe,OilRig (APT34),Critical Infrastructure,Disinformation campaigns and influence operations on social media.,CVE-2024-96777
+Eastern Europe,Lazarus Group,Defense,Reconnaissance and network intrusions targeting critical infrastructure.,CVE-2024-15854
+Eastern Europe,Lazarus Group,Critical Infrastructure,Increased spear-phishing campaigns observed targeting government entities.,CVE-2024-98855
+Middle East,Lazarus Group,"Financial, Government",Disinformation campaigns and influence operations on social media.,CVE-2024-60151
+Southeast Asia,OilRig (APT34),"Technology, Healthcare",Espionage activity focused on intellectual property theft from tech companies.,CVE-2024-55453
+Middle East,Lazarus Group,Critical Infrastructure,Reconnaissance and network intrusions targeting critical infrastructure.,CVE-2024-69831
+Eastern Europe,Stone Panda (APT10),"Technology, Healthcare",Reconnaissance and network intrusions targeting critical infrastructure.,CVE-2024-98381
+North America,Fancy Bear (APT28),"Technology, Healthcare",Reconnaissance and network intrusions targeting critical infrastructure.,CVE-2024-87675
+Eastern Europe,Stone Panda (APT10),Critical Infrastructure,Increased spear-phishing campaigns observed targeting government entities.,CVE-2024-31256
+Southeast Asia,OilRig (APT34),"Government, Energy",Destructive malware deployed against financial institutions.,CVE-2024-76223
+Southeast Asia,Stone Panda (APT10),"Technology, Healthcare",Disinformation campaigns and influence operations on social media.,CVE-2024-67674
+Eastern Europe,OilRig (APT34),Defense,Destructive malware deployed against financial institutions.,CVE-2024-57375
+Eastern Europe,Fancy Bear (APT28),"Technology, Healthcare",Destructive malware deployed against financial institutions.,CVE-2024-57541
+North America,Lazarus Group,"Government, Energy",Disinformation campaigns and influence operations on social media.,CVE-2024-44652
+Eastern Europe,OilRig (APT34),Critical Infrastructure,Destructive malware deployed against financial institutions.,CVE-2024-22757
+Southeast Asia,Cozy Bear,Defense,Increased spear-phishing campaigns observed targeting government entities.,CVE-2024-37692
+Southeast Asia,Fancy Bear (APT28),Critical Infrastructure,Espionage activity focused on intellectual property theft from tech companies.,CVE-2024-62782
+Middle East,Stone Panda (APT10),"Financial, Government",Espionage activity focused on intellectual property theft from tech companies.,CVE-2024-53989
+North America,Fancy Bear (APT28),"Technology, Healthcare",Espionage activity focused on intellectual property theft from tech companies.,CVE-2024-28005
+Eastern Europe,Fancy Bear (APT28),Critical Infrastructure,Disinformation campaigns and influence operations on social media.,CVE-2024-19152
+East Asia,Cozy Bear,"Government, Energy",Disinformation campaigns and influence operations on social media.,CVE-2024-85099
+East Asia,OilRig (APT34),"Financial, Government",Destructive malware deployed against financial institutions.,CVE-2024-13123
+Southeast Asia,OilRig (APT34),"Technology, Healthcare",Espionage activity focused on intellectual property theft from tech companies.,CVE-2024-35124
+Southeast Asia,OilRig (APT34),Critical Infrastructure,Destructive malware deployed against financial institutions.,CVE-2024-91722
+North America,Lazarus Group,"Government, Energy",Reconnaissance and network intrusions targeting critical infrastructure.,CVE-2024-96555
+Southeast Asia,OilRig (APT34),"Financial, Government",Reconnaissance and network intrusions targeting critical infrastructure.,CVE-2024-91810
+North America,Cozy Bear,"Financial, Government",Disinformation campaigns and influence operations on social media.,CVE-2024-45262
+Eastern Europe,OilRig (APT34),"Technology, Healthcare",Increased spear-phishing campaigns observed targeting government entities.,CVE-2024-39809
+East Asia,Fancy Bear (APT28),"Financial, Government",Increased spear-phishing campaigns observed targeting government entities.,CVE-2024-78265
+East Asia,Cozy Bear,"Government, Energy",Reconnaissance and network intrusions targeting critical infrastructure.,CVE-2024-29305
+Middle East,Cozy Bear,Defense,Disinformation campaigns and influence operations on social media.,CVE-2024-68108
+Southeast Asia,OilRig (APT34),Defense,Espionage activity focused on intellectual property theft from tech companies.,CVE-2024-58653
+Eastern Europe,Cozy Bear,Defense,Reconnaissance and network intrusions targeting critical infrastructure.,CVE-2024-17724
+Eastern Europe,Lazarus Group,"Financial, Government",Destructive malware deployed against financial institutions.,CVE-2024-97083
+North America,Lazarus Group,"Financial, Government",Disinformation campaigns and influence operations on social media.,CVE-2024-44966
+Southeast Asia,Stone Panda (APT10),"Technology, Healthcare",Espionage activity focused on intellectual property theft from tech companies.,CVE-2024-98976
+Eastern Europe,Lazarus Group,"Financial, Government",Espionage activity focused on intellectual property theft from tech companies.,CVE-2024-90482
+North America,Lazarus Group,Critical Infrastructure,Destructive malware deployed against financial institutions.,CVE-2024-27247
+North America,Cozy Bear,"Financial, Government",Increased spear-phishing campaigns observed targeting government entities.,CVE-2024-19945
+North America,Lazarus Group,"Government, Energy",Disinformation campaigns and influence operations on social media.,CVE-2024-24539
+North America,Lazarus Group,Defense,Increased spear-phishing campaigns observed targeting government entities.,CVE-2024-73729
+North America,Lazarus Group,"Government, Energy",Reconnaissance and network intrusions targeting critical infrastructure.,CVE-2024-27466
+East Asia,Lazarus Group,Defense,Disinformation campaigns and influence operations on social media.,CVE-2024-84927
+Southeast Asia,Fancy Bear (APT28),Critical Infrastructure,Disinformation campaigns and influence operations on social media.,CVE-2024-91957
+East Asia,Lazarus Group,"Financial, Government",Disinformation campaigns and influence operations on social media.,CVE-2024-27342
+Southeast Asia,Fancy Bear (APT28),"Technology, Healthcare",Reconnaissance and network intrusions targeting critical infrastructure.,CVE-2024-51536
+Eastern Europe,Fancy Bear (APT28),"Technology, Healthcare",Espionage activity focused on intellectual property theft from tech companies.,CVE-2024-60276
+East Asia,Fancy Bear (APT28),"Technology, Healthcare",Increased spear-phishing campaigns observed targeting government entities.,CVE-2024-91619
+Eastern Europe,Cozy Bear,"Government, Energy",Increased spear-phishing campaigns observed targeting government entities.,CVE-2024-70756
+Eastern Europe,Fancy Bear (APT28),"Financial, Government",Espionage activity focused on intellectual property theft from tech companies.,CVE-2024-79911
+Eastern Europe,Stone Panda (APT10),"Government, Energy",Espionage activity focused on intellectual property theft from tech companies.,CVE-2024-17352
+Middle East,OilRig (APT34),"Technology, Healthcare",Espionage activity focused on intellectual property theft from tech companies.,CVE-2024-44129
+Southeast Asia,Cozy Bear,"Technology, Healthcare",Increased spear-phishing campaigns observed targeting government entities.,CVE-2024-82149
+Southeast Asia,Lazarus Group,Defense,Reconnaissance and network intrusions targeting critical infrastructure.,CVE-2024-22762
+Middle East,Fancy Bear (APT28),Defense,Increased spear-phishing campaigns observed targeting government entities.,CVE-2024-77606
+East Asia,OilRig (APT34),"Government, Energy",Increased spear-phishing campaigns observed targeting government entities.,CVE-2024-41117
+North America,Fancy Bear (APT28),Critical Infrastructure,Disinformation campaigns and influence operations on social media.,CVE-2024-36480
+North America,OilRig (APT34),"Financial, Government",Espionage activity focused on intellectual property theft from tech companies.,CVE-2024-20766
+Southeast Asia,OilRig (APT34),"Technology, Healthcare",Espionage activity focused on intellectual property theft from tech companies.,CVE-2024-25989
+North America,Cozy Bear,"Technology, Healthcare",Espionage activity focused on intellectual property theft from tech companies.,CVE-2024-47925
+North America,Lazarus Group,"Government, Energy",Destructive malware deployed against financial institutions.,CVE-2024-64290
+Middle East,Lazarus Group,"Government, Energy",Espionage activity focused on intellectual property theft from tech companies.,CVE-2024-86760
+East Asia,Stone Panda (APT10),Critical Infrastructure,Disinformation campaigns and influence operations on social media.,CVE-2024-83213
+North America,Cozy Bear,Critical Infrastructure,Destructive malware deployed against financial institutions.,CVE-2024-15343
+North America,Cozy Bear,"Technology, Healthcare",Destructive malware deployed against financial institutions.,CVE-2024-33870
+Southeast Asia,OilRig (APT34),Defense,Espionage activity focused on intellectual property theft from tech companies.,CVE-2024-37404
+North America,Fancy Bear (APT28),Critical Infrastructure,Disinformation campaigns and influence operations on social media.,CVE-2024-22340
+Eastern Europe,Lazarus Group,"Financial, Government",Disinformation campaigns and influence operations on social media.,CVE-2024-72060
+Southeast Asia,OilRig (APT34),"Government, Energy",Disinformation campaigns and influence operations on social media.,CVE-2024-17384
+Southeast Asia,OilRig (APT34),Critical Infrastructure,Reconnaissance and network intrusions targeting critical infrastructure.,CVE-2024-28024
+Southeast Asia,Cozy Bear,"Technology, Healthcare",Espionage activity focused on intellectual property theft from tech companies.,CVE-2024-41984
+Middle East,Fancy Bear (APT28),Defense,Destructive malware deployed against financial institutions.,CVE-2024-18597
+Southeast Asia,Fancy Bear (APT28),"Technology, Healthcare",Reconnaissance and network intrusions targeting critical infrastructure.,CVE-2024-54047
+Eastern Europe,Fancy Bear (APT28),Defense,Increased spear-phishing campaigns observed targeting government entities.,CVE-2024-12278
+Eastern Europe,Fancy Bear (APT28),"Technology, Healthcare",Destructive malware deployed against financial institutions.,CVE-2024-91210
+Middle East,Cozy Bear,"Technology, Healthcare",Reconnaissance and network intrusions targeting critical infrastructure.,CVE-2024-34221
+Eastern Europe,Lazarus Group,Defense,Increased spear-phishing campaigns observed targeting government entities.,CVE-2024-27581
+Eastern Europe,Stone Panda (APT10),"Financial, Government",Reconnaissance and network intrusions targeting critical infrastructure.,CVE-2024-19254
+North America,Fancy Bear (APT28),"Financial, Government",Disinformation campaigns and influence operations on social media.,CVE-2024-79924
+Middle East,Stone Panda (APT10),"Government, Energy",Espionage activity focused on intellectual property theft from tech companies.,CVE-2024-48186

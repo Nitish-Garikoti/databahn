@@ -1,0 +1,101 @@
+forum,post_type,summary,confidence,cve_id
+XSS.is,Vulnerability Exploit,A zero-day exploit for a popular software is available.,Low,CVE-2024-60850
+XSS.is,Vulnerability Exploit,A large database of personal information has been leaked.,Medium,CVE-2024-70058
+XSS.is,Phishing Kit,A new phishing kit targeting online banking users is available.,Medium,CVE-2024-10141
+CryptBB,Malware for Sale,A new phishing kit targeting online banking users is available.,High,CVE-2024-58302
+XSS.is,Stolen Data,A sophisticated remote access trojan (RAT) is being advertised.,Medium,CVE-2024-62654
+Torum,Leaked Credentials,A new collection of user credentials is up for sale.,Medium,CVE-2024-17555
+BreachForums,Stolen Data,A large database of personal information has been leaked.,Medium,CVE-2024-62768
+Exploit.in,Phishing Kit,A zero-day exploit for a popular software is available.,High,CVE-2024-39690
+BreachForums,Phishing Kit,A sophisticated remote access trojan (RAT) is being advertised.,Low,CVE-2024-57981
+XSS.is,Malware for Sale,A sophisticated remote access trojan (RAT) is being advertised.,Critical,CVE-2024-83764
+Exploit.in,Malware for Sale,A new collection of user credentials is up for sale.,Low,CVE-2024-46475
+BreachForums,Vulnerability Exploit,A new phishing kit targeting online banking users is available.,Low,CVE-2024-90720
+Torum,Malware for Sale,A new collection of user credentials is up for sale.,Medium,CVE-2024-47193
+Torum,Phishing Kit,A new phishing kit targeting online banking users is available.,Medium,CVE-2024-10409
+CryptBB,Phishing Kit,A large database of personal information has been leaked.,Critical,CVE-2024-43849
+Exploit.in,Stolen Data,A large database of personal information has been leaked.,High,CVE-2024-89455
+Exploit.in,Malware for Sale,A new collection of user credentials is up for sale.,Low,CVE-2024-17558
+XSS.is,Phishing Kit,A zero-day exploit for a popular software is available.,Medium,CVE-2024-82702
+BreachForums,Phishing Kit,A zero-day exploit for a popular software is available.,Medium,CVE-2024-88200
+Exploit.in,Malware for Sale,A large database of personal information has been leaked.,High,CVE-2024-54348
+BreachForums,Stolen Data,A zero-day exploit for a popular software is available.,High,CVE-2024-96777
+Exploit.in,Vulnerability Exploit,A sophisticated remote access trojan (RAT) is being advertised.,High,CVE-2024-15854
+Torum,Stolen Data,A sophisticated remote access trojan (RAT) is being advertised.,High,CVE-2024-98855
+CryptBB,Malware for Sale,A sophisticated remote access trojan (RAT) is being advertised.,Critical,CVE-2024-60151
+Torum,Phishing Kit,A new phishing kit targeting online banking users is available.,High,CVE-2024-55453
+XSS.is,Phishing Kit,A large database of personal information has been leaked.,Critical,CVE-2024-69831
+Torum,Phishing Kit,A large database of personal information has been leaked.,Medium,CVE-2024-98381
+Torum,Leaked Credentials,A sophisticated remote access trojan (RAT) is being advertised.,Critical,CVE-2024-87675
+CryptBB,Vulnerability Exploit,A zero-day exploit for a popular software is available.,Low,CVE-2024-31256
+Exploit.in,Phishing Kit,A zero-day exploit for a popular software is available.,Critical,CVE-2024-76223
+Torum,Phishing Kit,A large database of personal information has been leaked.,Critical,CVE-2024-67674
+Torum,Vulnerability Exploit,A zero-day exploit for a popular software is available.,High,CVE-2024-57375
+CryptBB,Stolen Data,A zero-day exploit for a popular software is available.,Medium,CVE-2024-57541
+XSS.is,Stolen Data,A new phishing kit targeting online banking users is available.,Low,CVE-2024-44652
+Exploit.in,Malware for Sale,A new phishing kit targeting online banking users is available.,Critical,CVE-2024-22757
+BreachForums,Vulnerability Exploit,A large database of personal information has been leaked.,Low,CVE-2024-37692
+Torum,Vulnerability Exploit,A new phishing kit targeting online banking users is available.,High,CVE-2024-62782
+Torum,Stolen Data,A new phishing kit targeting online banking users is available.,Medium,CVE-2024-53989
+XSS.is,Vulnerability Exploit,A new collection of user credentials is up for sale.,Low,CVE-2024-28005
+Exploit.in,Malware for Sale,A large database of personal information has been leaked.,High,CVE-2024-19152
+CryptBB,Malware for Sale,A large database of personal information has been leaked.,Critical,CVE-2024-85099
+XSS.is,Leaked Credentials,A sophisticated remote access trojan (RAT) is being advertised.,Critical,CVE-2024-13123
+Exploit.in,Leaked Credentials,A sophisticated remote access trojan (RAT) is being advertised.,Medium,CVE-2024-35124
+XSS.is,Phishing Kit,A zero-day exploit for a popular software is available.,Critical,CVE-2024-91722
+CryptBB,Stolen Data,A zero-day exploit for a popular software is available.,Critical,CVE-2024-96555
+CryptBB,Vulnerability Exploit,A large database of personal information has been leaked.,Low,CVE-2024-91810
+BreachForums,Vulnerability Exploit,A zero-day exploit for a popular software is available.,High,CVE-2024-45262
+CryptBB,Malware for Sale,A new phishing kit targeting online banking users is available.,Critical,CVE-2024-39809
+Torum,Leaked Credentials,A zero-day exploit for a popular software is available.,Low,CVE-2024-78265
+Exploit.in,Malware for Sale,A new phishing kit targeting online banking users is available.,Low,CVE-2024-29305
+BreachForums,Phishing Kit,A large database of personal information has been leaked.,Medium,CVE-2024-68108
+BreachForums,Malware for Sale,A new phishing kit targeting online banking users is available.,High,CVE-2024-58653
+Exploit.in,Vulnerability Exploit,A sophisticated remote access trojan (RAT) is being advertised.,Medium,CVE-2024-17724
+CryptBB,Phishing Kit,A new phishing kit targeting online banking users is available.,Medium,CVE-2024-97083
+CryptBB,Stolen Data,A new phishing kit targeting online banking users is available.,Medium,CVE-2024-44966
+Exploit.in,Leaked Credentials,A zero-day exploit for a popular software is available.,Critical,CVE-2024-98976
+CryptBB,Stolen Data,A zero-day exploit for a popular software is available.,Medium,CVE-2024-90482
+Torum,Malware for Sale,A new collection of user credentials is up for sale.,High,CVE-2024-27247
+CryptBB,Leaked Credentials,A new collection of user credentials is up for sale.,Medium,CVE-2024-19945
+BreachForums,Stolen Data,A new collection of user credentials is up for sale.,Low,CVE-2024-24539
+Exploit.in,Vulnerability Exploit,A large database of personal information has been leaked.,High,CVE-2024-73729
+BreachForums,Phishing Kit,A zero-day exploit for a popular software is available.,High,CVE-2024-27466
+BreachForums,Malware for Sale,A new collection of user credentials is up for sale.,Low,CVE-2024-84927
+Torum,Vulnerability Exploit,A zero-day exploit for a popular software is available.,Critical,CVE-2024-91957
+BreachForums,Stolen Data,A large database of personal information has been leaked.,Low,CVE-2024-27342
+Torum,Vulnerability Exploit,A new collection of user credentials is up for sale.,High,CVE-2024-51536
+CryptBB,Leaked Credentials,A sophisticated remote access trojan (RAT) is being advertised.,Medium,CVE-2024-60276
+BreachForums,Malware for Sale,A large database of personal information has been leaked.,Medium,CVE-2024-91619
+BreachForums,Vulnerability Exploit,A sophisticated remote access trojan (RAT) is being advertised.,Critical,CVE-2024-70756
+BreachForums,Stolen Data,A new collection of user credentials is up for sale.,Low,CVE-2024-79911
+CryptBB,Stolen Data,A large database of personal information has been leaked.,Low,CVE-2024-17352
+CryptBB,Malware for Sale,A new collection of user credentials is up for sale.,Critical,CVE-2024-44129
+CryptBB,Vulnerability Exploit,A large database of personal information has been leaked.,Medium,CVE-2024-82149
+XSS.is,Leaked Credentials,A new collection of user credentials is up for sale.,Low,CVE-2024-22762
+CryptBB,Phishing Kit,A zero-day exploit for a popular software is available.,Low,CVE-2024-77606
+XSS.is,Phishing Kit,A sophisticated remote access trojan (RAT) is being advertised.,Critical,CVE-2024-41117
+Exploit.in,Phishing Kit,A new collection of user credentials is up for sale.,Low,CVE-2024-36480
+Torum,Stolen Data,A new collection of user credentials is up for sale.,Low,CVE-2024-20766
+XSS.is,Stolen Data,A large database of personal information has been leaked.,Low,CVE-2024-25989
+XSS.is,Vulnerability Exploit,A new phishing kit targeting online banking users is available.,Medium,CVE-2024-47925
+BreachForums,Vulnerability Exploit,A large database of personal information has been leaked.,Critical,CVE-2024-64290
+Exploit.in,Phishing Kit,A zero-day exploit for a popular software is available.,Low,CVE-2024-86760
+CryptBB,Phishing Kit,A large database of personal information has been leaked.,Low,CVE-2024-83213
+XSS.is,Phishing Kit,A new phishing kit targeting online banking users is available.,High,CVE-2024-15343
+CryptBB,Malware for Sale,A sophisticated remote access trojan (RAT) is being advertised.,Medium,CVE-2024-33870
+XSS.is,Malware for Sale,A new phishing kit targeting online banking users is available.,Critical,CVE-2024-37404
+BreachForums,Stolen Data,A zero-day exploit for a popular software is available.,High,CVE-2024-22340
+Torum,Phishing Kit,A zero-day exploit for a popular software is available.,Critical,CVE-2024-72060
+Exploit.in,Leaked Credentials,A sophisticated remote access trojan (RAT) is being advertised.,Low,CVE-2024-17384
+XSS.is,Vulnerability Exploit,A new collection of user credentials is up for sale.,Low,CVE-2024-28024
+CryptBB,Malware for Sale,A large database of personal information has been leaked.,Critical,CVE-2024-41984
+Exploit.in,Leaked Credentials,A sophisticated remote access trojan (RAT) is being advertised.,Low,CVE-2024-18597
+Exploit.in,Phishing Kit,A large database of personal information has been leaked.,High,CVE-2024-54047
+Exploit.in,Stolen Data,A new phishing kit targeting online banking users is available.,Critical,CVE-2024-12278
+Exploit.in,Stolen Data,A zero-day exploit for a popular software is available.,Critical,CVE-2024-91210
+BreachForums,Vulnerability Exploit,A sophisticated remote access trojan (RAT) is being advertised.,Low,CVE-2024-34221
+XSS.is,Vulnerability Exploit,A new collection of user credentials is up for sale.,Low,CVE-2024-27581
+Torum,Vulnerability Exploit,A zero-day exploit for a popular software is available.,Medium,CVE-2024-19254
+Torum,Phishing Kit,A zero-day exploit for a popular software is available.,Medium,CVE-2024-79924
+Torum,Stolen Data,A sophisticated remote access trojan (RAT) is being advertised.,Low,CVE-2024-48186

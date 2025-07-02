@@ -1,0 +1,101 @@
+cloud_provider,misconfiguration,threat_vector,recommendation,cve_id
+GCP,Unrestricted Network Security Group,Denial of Service,Review and restrict S3 bucket policies to ensure no public access.,CVE-2024-60850
+Azure,Exposed Kubernetes Dashboard,Unauthorized Access,Modify inbound rules to only allow traffic from known IP addresses.,CVE-2024-70058
+AWS,Overly Permissive IAM Role,Denial of Service,Review and restrict S3 bucket policies to ensure no public access.,CVE-2024-10141
+Azure,Unencrypted Database,Unauthorized Access,Review and restrict S3 bucket policies to ensure no public access.,CVE-2024-58302
+AWS,Unencrypted Database,Remote Code Execution,Enable server-side encryption for all databases.,CVE-2024-62654
+AWS,Exposed Kubernetes Dashboard,Data Exposure,Apply the principle of least privilege to IAM roles and policies.,CVE-2024-17555
+GCP,Unrestricted Network Security Group,Data Exposure,Review and restrict S3 bucket policies to ensure no public access.,CVE-2024-62768
+Azure,Public S3 Bucket,Remote Code Execution,Review and restrict S3 bucket policies to ensure no public access.,CVE-2024-39690
+Azure,Overly Permissive IAM Role,Denial of Service,Review and restrict S3 bucket policies to ensure no public access.,CVE-2024-57981
+Azure,Exposed Kubernetes Dashboard,Remote Code Execution,Review and restrict S3 bucket policies to ensure no public access.,CVE-2024-83764
+Azure,Unrestricted Network Security Group,Privilege Escalation,Implement role-based access control (RBAC) for the Kubernetes dashboard.,CVE-2024-46475
+AWS,Unrestricted Network Security Group,Unauthorized Access,Apply the principle of least privilege to IAM roles and policies.,CVE-2024-90720
+AWS,Exposed Kubernetes Dashboard,Data Exposure,Modify inbound rules to only allow traffic from known IP addresses.,CVE-2024-47193
+Azure,Public S3 Bucket,Remote Code Execution,Review and restrict S3 bucket policies to ensure no public access.,CVE-2024-10409
+GCP,Exposed Kubernetes Dashboard,Remote Code Execution,Implement role-based access control (RBAC) for the Kubernetes dashboard.,CVE-2024-43849
+GCP,Unrestricted Network Security Group,Privilege Escalation,Review and restrict S3 bucket policies to ensure no public access.,CVE-2024-89455
+GCP,Overly Permissive IAM Role,Privilege Escalation,Modify inbound rules to only allow traffic from known IP addresses.,CVE-2024-17558
+GCP,Public S3 Bucket,Data Exposure,Implement role-based access control (RBAC) for the Kubernetes dashboard.,CVE-2024-82702
+AWS,Public S3 Bucket,Privilege Escalation,Apply the principle of least privilege to IAM roles and policies.,CVE-2024-88200
+Azure,Unrestricted Network Security Group,Unauthorized Access,Implement role-based access control (RBAC) for the Kubernetes dashboard.,CVE-2024-54348
+Azure,Unrestricted Network Security Group,Denial of Service,Apply the principle of least privilege to IAM roles and policies.,CVE-2024-96777
+AWS,Exposed Kubernetes Dashboard,Denial of Service,Implement role-based access control (RBAC) for the Kubernetes dashboard.,CVE-2024-15854
+GCP,Unrestricted Network Security Group,Remote Code Execution,Enable server-side encryption for all databases.,CVE-2024-98855
+Azure,Exposed Kubernetes Dashboard,Denial of Service,Review and restrict S3 bucket policies to ensure no public access.,CVE-2024-60151
+Azure,Exposed Kubernetes Dashboard,Unauthorized Access,Implement role-based access control (RBAC) for the Kubernetes dashboard.,CVE-2024-55453
+Azure,Overly Permissive IAM Role,Denial of Service,Modify inbound rules to only allow traffic from known IP addresses.,CVE-2024-69831
+AWS,Unencrypted Database,Unauthorized Access,Modify inbound rules to only allow traffic from known IP addresses.,CVE-2024-98381
+GCP,Unencrypted Database,Unauthorized Access,Review and restrict S3 bucket policies to ensure no public access.,CVE-2024-87675
+Azure,Overly Permissive IAM Role,Data Exposure,Apply the principle of least privilege to IAM roles and policies.,CVE-2024-31256
+Azure,Overly Permissive IAM Role,Denial of Service,Modify inbound rules to only allow traffic from known IP addresses.,CVE-2024-76223
+GCP,Overly Permissive IAM Role,Unauthorized Access,Enable server-side encryption for all databases.,CVE-2024-67674
+AWS,Exposed Kubernetes Dashboard,Remote Code Execution,Apply the principle of least privilege to IAM roles and policies.,CVE-2024-57375
+Azure,Exposed Kubernetes Dashboard,Privilege Escalation,Implement role-based access control (RBAC) for the Kubernetes dashboard.,CVE-2024-57541
+GCP,Unencrypted Database,Data Exposure,Enable server-side encryption for all databases.,CVE-2024-44652
+AWS,Unrestricted Network Security Group,Remote Code Execution,Implement role-based access control (RBAC) for the Kubernetes dashboard.,CVE-2024-22757
+GCP,Exposed Kubernetes Dashboard,Denial of Service,Enable server-side encryption for all databases.,CVE-2024-37692
+AWS,Unencrypted Database,Unauthorized Access,Modify inbound rules to only allow traffic from known IP addresses.,CVE-2024-62782
+GCP,Unrestricted Network Security Group,Remote Code Execution,Apply the principle of least privilege to IAM roles and policies.,CVE-2024-53989
+Azure,Overly Permissive IAM Role,Denial of Service,Apply the principle of least privilege to IAM roles and policies.,CVE-2024-28005
+Azure,Unencrypted Database,Unauthorized Access,Implement role-based access control (RBAC) for the Kubernetes dashboard.,CVE-2024-19152
+AWS,Public S3 Bucket,Privilege Escalation,Review and restrict S3 bucket policies to ensure no public access.,CVE-2024-85099
+AWS,Unencrypted Database,Remote Code Execution,Implement role-based access control (RBAC) for the Kubernetes dashboard.,CVE-2024-13123
+Azure,Unrestricted Network Security Group,Denial of Service,Implement role-based access control (RBAC) for the Kubernetes dashboard.,CVE-2024-35124
+Azure,Exposed Kubernetes Dashboard,Data Exposure,Enable server-side encryption for all databases.,CVE-2024-91722
+GCP,Exposed Kubernetes Dashboard,Remote Code Execution,Modify inbound rules to only allow traffic from known IP addresses.,CVE-2024-96555
+AWS,Exposed Kubernetes Dashboard,Remote Code Execution,Implement role-based access control (RBAC) for the Kubernetes dashboard.,CVE-2024-91810
+Azure,Unencrypted Database,Privilege Escalation,Modify inbound rules to only allow traffic from known IP addresses.,CVE-2024-45262
+AWS,Public S3 Bucket,Privilege Escalation,Implement role-based access control (RBAC) for the Kubernetes dashboard.,CVE-2024-39809
+GCP,Overly Permissive IAM Role,Unauthorized Access,Review and restrict S3 bucket policies to ensure no public access.,CVE-2024-78265
+AWS,Unencrypted Database,Data Exposure,Apply the principle of least privilege to IAM roles and policies.,CVE-2024-29305
+GCP,Overly Permissive IAM Role,Unauthorized Access,Review and restrict S3 bucket policies to ensure no public access.,CVE-2024-68108
+AWS,Overly Permissive IAM Role,Unauthorized Access,Implement role-based access control (RBAC) for the Kubernetes dashboard.,CVE-2024-58653
+Azure,Exposed Kubernetes Dashboard,Privilege Escalation,Modify inbound rules to only allow traffic from known IP addresses.,CVE-2024-17724
+AWS,Unencrypted Database,Remote Code Execution,Modify inbound rules to only allow traffic from known IP addresses.,CVE-2024-97083
+AWS,Unrestricted Network Security Group,Privilege Escalation,Enable server-side encryption for all databases.,CVE-2024-44966
+GCP,Exposed Kubernetes Dashboard,Remote Code Execution,Enable server-side encryption for all databases.,CVE-2024-98976
+AWS,Unencrypted Database,Denial of Service,Apply the principle of least privilege to IAM roles and policies.,CVE-2024-90482
+AWS,Public S3 Bucket,Privilege Escalation,Implement role-based access control (RBAC) for the Kubernetes dashboard.,CVE-2024-27247
+AWS,Unencrypted Database,Remote Code Execution,Review and restrict S3 bucket policies to ensure no public access.,CVE-2024-19945
+AWS,Overly Permissive IAM Role,Remote Code Execution,Implement role-based access control (RBAC) for the Kubernetes dashboard.,CVE-2024-24539
+AWS,Unencrypted Database,Unauthorized Access,Implement role-based access control (RBAC) for the Kubernetes dashboard.,CVE-2024-73729
+GCP,Unrestricted Network Security Group,Unauthorized Access,Enable server-side encryption for all databases.,CVE-2024-27466
+Azure,Unencrypted Database,Unauthorized Access,Enable server-side encryption for all databases.,CVE-2024-84927
+AWS,Overly Permissive IAM Role,Data Exposure,Apply the principle of least privilege to IAM roles and policies.,CVE-2024-91957
+GCP,Exposed Kubernetes Dashboard,Unauthorized Access,Apply the principle of least privilege to IAM roles and policies.,CVE-2024-27342
+Azure,Unencrypted Database,Privilege Escalation,Review and restrict S3 bucket policies to ensure no public access.,CVE-2024-51536
+AWS,Unrestricted Network Security Group,Remote Code Execution,Apply the principle of least privilege to IAM roles and policies.,CVE-2024-60276
+Azure,Exposed Kubernetes Dashboard,Unauthorized Access,Modify inbound rules to only allow traffic from known IP addresses.,CVE-2024-91619
+AWS,Overly Permissive IAM Role,Unauthorized Access,Enable server-side encryption for all databases.,CVE-2024-70756
+GCP,Exposed Kubernetes Dashboard,Denial of Service,Enable server-side encryption for all databases.,CVE-2024-79911
+AWS,Unrestricted Network Security Group,Denial of Service,Apply the principle of least privilege to IAM roles and policies.,CVE-2024-17352
+Azure,Overly Permissive IAM Role,Denial of Service,Enable server-side encryption for all databases.,CVE-2024-44129
+AWS,Unrestricted Network Security Group,Denial of Service,Apply the principle of least privilege to IAM roles and policies.,CVE-2024-82149
+Azure,Unencrypted Database,Remote Code Execution,Enable server-side encryption for all databases.,CVE-2024-22762
+Azure,Overly Permissive IAM Role,Denial of Service,Enable server-side encryption for all databases.,CVE-2024-77606
+AWS,Unrestricted Network Security Group,Remote Code Execution,Implement role-based access control (RBAC) for the Kubernetes dashboard.,CVE-2024-41117
+GCP,Overly Permissive IAM Role,Unauthorized Access,Implement role-based access control (RBAC) for the Kubernetes dashboard.,CVE-2024-36480
+GCP,Exposed Kubernetes Dashboard,Privilege Escalation,Enable server-side encryption for all databases.,CVE-2024-20766
+AWS,Overly Permissive IAM Role,Remote Code Execution,Implement role-based access control (RBAC) for the Kubernetes dashboard.,CVE-2024-25989
+Azure,Public S3 Bucket,Denial of Service,Modify inbound rules to only allow traffic from known IP addresses.,CVE-2024-47925
+Azure,Exposed Kubernetes Dashboard,Unauthorized Access,Enable server-side encryption for all databases.,CVE-2024-64290
+GCP,Public S3 Bucket,Data Exposure,Modify inbound rules to only allow traffic from known IP addresses.,CVE-2024-86760
+GCP,Unrestricted Network Security Group,Unauthorized Access,Implement role-based access control (RBAC) for the Kubernetes dashboard.,CVE-2024-83213
+Azure,Unencrypted Database,Remote Code Execution,Apply the principle of least privilege to IAM roles and policies.,CVE-2024-15343
+GCP,Exposed Kubernetes Dashboard,Privilege Escalation,Review and restrict S3 bucket policies to ensure no public access.,CVE-2024-33870
+Azure,Public S3 Bucket,Remote Code Execution,Enable server-side encryption for all databases.,CVE-2024-37404
+Azure,Overly Permissive IAM Role,Privilege Escalation,Enable server-side encryption for all databases.,CVE-2024-22340
+GCP,Overly Permissive IAM Role,Privilege Escalation,Modify inbound rules to only allow traffic from known IP addresses.,CVE-2024-72060
+GCP,Overly Permissive IAM Role,Privilege Escalation,Implement role-based access control (RBAC) for the Kubernetes dashboard.,CVE-2024-17384
+AWS,Overly Permissive IAM Role,Unauthorized Access,Modify inbound rules to only allow traffic from known IP addresses.,CVE-2024-28024
+GCP,Unrestricted Network Security Group,Denial of Service,Enable server-side encryption for all databases.,CVE-2024-41984
+AWS,Exposed Kubernetes Dashboard,Unauthorized Access,Review and restrict S3 bucket policies to ensure no public access.,CVE-2024-18597
+GCP,Public S3 Bucket,Privilege Escalation,Modify inbound rules to only allow traffic from known IP addresses.,CVE-2024-54047
+GCP,Unencrypted Database,Denial of Service,Implement role-based access control (RBAC) for the Kubernetes dashboard.,CVE-2024-12278
+AWS,Unencrypted Database,Privilege Escalation,Apply the principle of least privilege to IAM roles and policies.,CVE-2024-91210
+Azure,Exposed Kubernetes Dashboard,Data Exposure,Apply the principle of least privilege to IAM roles and policies.,CVE-2024-34221
+AWS,Unencrypted Database,Unauthorized Access,Review and restrict S3 bucket policies to ensure no public access.,CVE-2024-27581
+Azure,Public S3 Bucket,Remote Code Execution,Modify inbound rules to only allow traffic from known IP addresses.,CVE-2024-19254
+AWS,Overly Permissive IAM Role,Remote Code Execution,Enable server-side encryption for all databases.,CVE-2024-79924
+AWS,Public S3 Bucket,Data Exposure,Review and restrict S3 bucket policies to ensure no public access.,CVE-2024-48186

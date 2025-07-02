@@ -1,0 +1,101 @@
+incident_id,report_date,severity,status,summary,assigned_to
+1,2023-10-26,High,In-Progress,"Malware outbreak: Emotet trojan detected on multiple endpoints",soc-team
+2,2023-10-25,Medium,Closed,"Unauthorized USB device usage by jdoe on asset 3",j.carter
+3,2023-10-26,High,In-Progress,"Suspected data exfiltration via DNS tunneling from asset 73",d.evans
+4,2023-10-24,Low,Closed,"Policy violation: Firewall disabled on asset 18",s.lee
+5,2023-10-26,Critical,In-Progress,"Ransomware attack on asset 26, file server potentially affected",incident-response
+6,2023-10-23,Medium,Closed,"Brute-force RDP attempts against multiple servers from 203.0.113.50",a.harris
+7,2023-10-22,Low,Closed,"Unapproved software 'bittorrent.exe' found on asset 13",j.carter
+8,2023-10-21,High,Closed,"Phishing campaign targeting finance department employees",soc-team
+9,2023-10-26,Medium,In-Progress,"Connection to known C2 server from asset 23",d.evans
+10,2023-10-20,Low,Monitoring,"Anomalous file access by user radams on asset 71",s.lee
+11,2023-10-19,High,Closed,"Web server defacement on external-facing webapp",incident-response
+12,2023-10-18,Medium,Closed,"Mimikatz-like behavior detected on asset 46",a.harris
+13,2023-10-17,Low,Closed,"Peer-to-peer file sharing activity detected from multiple IPs",j.carter
+14,2023-10-26,High,In-Progress,"Fileless malware detected on domain controller DC-02",incident-response
+15,2023-10-16,Medium,Closed,"Denial of Service attack against VPN gateway",soc-team
+16,2023-10-15,Low,Monitoring,"Suspicious WMI persistence mechanism found on asset 82",d.evans
+17,2023-10-14,High,Closed,"Successful spear-phishing attack leading to CEO credential compromise",incident-response
+18,2023-10-13,Medium,Closed,"Vulnerable Java version exploited on public-facing server",s.lee
+19,2023-10-26,Low,In-Progress,"User added to local administrators group on asset 40",a.harris
+20,2023-10-12,High,Closed,"Insider threat: Data copied to personal cloud storage by ex-employee",hr-legal
+21,2023-10-11,Medium,Monitoring,"Anomalous large upload to unknown cloud provider from asset 94",d.evans
+22,2023-10-10,Low,Closed,"Weak password policy allowed for easily guessable password",policy-team
+23,2023-10-09,High,Closed,"SQL Injection vulnerability exploited on e-commerce site",incident-response
+24,2023-10-26,Medium,In-Progress,"Golden Ticket Kerberos attack attempt detected",soc-team
+25,2023-10-08,Low,Closed,"Use of network scanning tools by unauthorized user",j.carter
+26,2023-10-07,High,Closed,"Lost/stolen laptop (asset 81) containing sensitive data",hr-legal
+27,2023-10-06,Medium,Closed,"Misconfigured S3 bucket exposing customer data",cloud-team
+28,2023-10-05,Low,Closed,"Insecure Wi-Fi network used by remote employee",s.lee
+29,2023-10-26,High,In-Progress,"Rootkit found on critical production server (asset 66)",incident-response
+30,2023-10-04,Medium,Closed,"Social engineering attempt via phone call to help desk",soc-team
+31,2023-10-03,Low,Monitoring,"Suspicious login time for user lgreen (3:00 AM)",a.harris
+32,2023-10-02,High,Closed,"Zero-day exploit used against corporate mail server",incident-response
+33,2023-10-01,Medium,Closed,"Coinmining malware found on multiple workstations",d.evans
+34,2023-09-30,Low,Closed,"Unencrypted removable media usage across several users",j.carter
+35,2023-09-29,High,Closed,"Database breach via unpatched application vulnerability",incident-response
+36,2023-09-28,Medium,Closed,"Man-in-the-middle attack on public guest Wi-Fi",network-team
+37,2023-09-27,Low,Closed,"Use of remote administration tools (VNC) by marketing team",s.lee
+38,2023-10-26,Medium,In-Progress,"Command and control beaconing detected from asset 90",d.evans
+39,2023-09-26,High,Closed,"Credential stuffing attack against customer login portal",soc-team
+40,2023-09-25,Medium,Monitoring,"Anomalous RDP connection from an external IP to asset 44",a.harris
+41,2023-09-24,Low,Closed,"Tailgating incident at main office entrance",physical-security
+42,2023-09-23,High,Closed,"Destructive malware (wiper) deployed on research network",incident-response
+43,2023-09-22,Medium,Closed,"Domain controller password hashes dumped via DCSync attack",soc-team
+44,2023-09-21,Low,Closed,"Shoulder surfing observed at coffee shop by remote employee",hr-legal
+45,2023-09-20,High,Closed,"Business Email Compromise (BEC) resulting in fraudulent wire transfer",finance-legal
+46,2023-09-19,Medium,Monitoring,"Suspicious COM object hijacking for persistence on asset 62",d.evans
+47,2023-09-18,Low,Closed,"Outdated anti-virus signatures on multiple endpoints",it-support
+48,2023-09-17,High,Closed,"Supply chain attack via compromised software update",incident-response
+49,2023-09-16,Medium,Closed,"Session hijacking attack on internal web application",webapp-team
+50,2023-09-15,Low,Closed,"Brand impersonation on social media",marketing-pr
+51,2023-10-26,High,New,"Ransomware note found on asset 92",incident-response
+52,2023-09-14,Medium,Closed,"Malicious macro in Excel document bypassed email gateway",email-security
+53,2023-09-13,Low,Closed,"Password reuse by administrator across multiple systems",policy-team
+54,2023-09-12,High,Closed,"Physical break-in at remote office, equipment stolen",physical-security
+55,2023-09-11,Medium,Closed,"Watering hole attack targeting employees on industry news site",soc-team
+56,2023-09-10,Low,Monitoring,"Connection to a newly registered domain from asset 59",d.evans
+57,2023-09-09,High,Closed,"Cross-Site Scripting (XSS) vulnerability leading to admin cookie theft",webapp-team
+58,2023-09-08,Medium,Closed,"Denial of Service (DoS) attack against HR portal",soc-team
+59,2023-09-07,Low,Closed,"Spam campaign originating from a compromised user account",email-security
+60,2023-09-06,High,Closed,"DNS hijacking redirecting users to a malicious site",network-team
+61,2023-09-05,Medium,Closed,"Typosquatting domain used in phishing campaign",soc-team
+62,2023-09-04,Low,Closed,"Software license misuse reported by vendor",legal
+63,2023-09-03,High,Closed,"Advanced Persistent Threat (APT) group lateral movement detected",incident-response
+64,2023-09-02,Medium,Closed,"Form-grabbing malware stole credentials from checkout page",webapp-team
+65,2023-09-01,Low,Closed,"Sensitive information found in public code repository",dev-team
+66,2023-08-31,High,Closed,"VPN vulnerability exploited, allowing unauthorized access",incident-response
+67,2023-08-30,Medium,Closed,"Brute force password guessing against SSH on a public server",soc-team
+68,2023-08-29,Low,Closed,"Disgruntled employee deleted files before resignation",hr-legal
+69,2023-08-28,High,Closed,"Cloud account takeover via stolen API keys",cloud-team
+70,2023-08-27,Medium,Closed,"Smishing (SMS phishing) attack targeting mobile users",soc-team
+71,2023-08-26,Low,Closed,"Information leakage from verbose error messages on website",webapp-team
+72,2023-08-25,High,Closed,"Drive-by download of malware from a compromised ad network",incident-response
+73,2023-08-24,Medium,Closed,"VoIP/SIP service abuse, resulting in high call charges",network-team
+74,2023-08-23,Low,Closed,"Physical security badge cloned",physical-security
+75,2023-08-22,High,Closed,"Lateral movement from dev to prod environment via misconfiguration",incident-response
+76,2023-08-21,Medium,Closed,"SSL certificate expiration caused service outage",pki-team
+77,2023-08-20,Low,Closed,"User downloaded and ran unapproved screen saver",it-support
+78,2023-08-19,High,Closed,"Industrial Control System (ICS) network compromised",ics-response
+79,2023-08-18,Medium,Closed,"Attacker used stolen cookies to bypass MFA",soc-team
+80,2023-08-17,Low,Closed,"Data exposure through unsecured Elasticsearch database",cloud-team
+81,2023-08-16,High,New,"Active directory compromise, DC offline",incident-response
+82,2023-08-15,Medium,Closed,"Malicious insider altered financial records",hr-legal
+83,2023-08-14,Low,Closed,"Webcam hijacking on a user's laptop",it-support
+84,2023-08-13,High,Closed,"Point-of-Sale (POS) system infected with memory-scraping malware",pos-team
+85,2023-08-12,Medium,Closed,"Clickjacking attack on marketing promotion page",webapp-team
+86,2023-08-11,Low,Closed,"Email spoofing of CEO's address",email-security
+87,2023-08-10,High,Closed,"Firmware backdoor found in network switch",network-team
+88,2023-08-09,Medium,Closed,"Threat actor abuse of legitimate remote access tool",soc-team
+89,2023-08-08,Low,Closed,"Accidental publication of internal document to public website",pr-team
+90,2023-08-07,High,Closed,"Cryptojacking script injected into main company website",webapp-team
+91,2023-08-06,Medium,Closed,"SIM swapping attack on executive's mobile phone",hr-legal
+92,2023-08-05,Low,Closed,"Hardcoded credentials found in mobile application code",dev-team
+93,2023-08-04,High,Closed,"IoT device botnet used in DDoS attack against our servers",incident-response
+94,2023-08-03,Medium,Closed,"Vishing (voice phishing) attack successfully impersonated IT support",soc-team
+95,2023-08-02,Low,Closed,"Domain name expired and was bought by a malicious actor",legal
+96,2023-08-01,High,Closed,"Magecart attack skimming credit card info from payment page",incident-response
+97,2023-07-31,Medium,Closed,"API abuse led to scraping of user profile data",api-team
+98,2023-07-30,Low,Closed,"Wi-Fi Pineapple used to intercept traffic near office",physical-security
+99,2023-07-29,High,Closed,"Nation-state actor targeting research and development data",incident-response
+100,2023-10-26,Medium,New,"Suspicious use of BITSAdmin to download file from internet",d.evans

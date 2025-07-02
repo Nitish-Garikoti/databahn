@@ -1,0 +1,101 @@
+threat_id,indicator_type,indicator,threat_type,source,first_seen,last_seen
+1,ip-address,104.28.14.12,Malware C2,AlienVault OTX,2023-10-01,2023-10-26
+2,domain,malicious-site.net,Phishing,PhishTank,2023-09-15,2023-10-25
+3,file-hash-md5,d41d8cd98f00b204e9800998ecf8427e,Ransomware Dropper,VirusTotal,2023-08-22,2023-10-26
+4,ip-address,198.51.100.55,Botnet,Shadowserver,2023-10-10,2023-10-26
+5,domain,baddomain.org,Malware Distribution,URLhaus,2023-09-28,2023-10-24
+6,file-hash-sha256,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,Keylogger,Hybrid Analysis,2023-09-05,2023-10-25
+7,ip-address,203.0.113.50,Brute-force Scanner,Abuse.ch,2023-10-22,2023-10-26
+8,domain,phishing-attempt.com,Phishing,Internal Report,2023-10-20,2023-10-25
+9,file-hash-sha1,a9993e364706816aba3e25717850c26c9cd0d89d,Adware,Internal Sandbox,2023-08-30,2023-10-22
+10,ip-address,185.143.223.68,Anonymizing Proxy,Tor Exit Node List,2023-07-01,2023-10-26
+11,domain,suspicious-domain.co,Malware C2,Cisco Talos,2023-10-12,2023-10-26
+12,file-hash-md5,098f6bcd4621d373cade4e832627b4f6,Trojan,Symantec DeepSight,2023-09-18,2023-10-24
+13,ip-address,198.51.100.66,IRC Bot,Spamhaus,2023-10-15,2023-10-25
+14,domain,evil-tracker.com,Adware Tracker,AdGuard DNS Filter,2023-06-11,2023-10-26
+15,file-hash-sha256,4f79d1a80e374d683a453023e9597368846385199654e99de02bd64b81045f4a,Wiper Malware,Kaspersky Threat Intelligence,2023-10-03,2023-10-23
+16,ip-address,96.90.175.166,TOR Node,Dan.me.uk,2023-01-01,2023-10-26
+17,domain,adware-distributor.net,PUA,Malwarebytes,2023-09-21,2023-10-25
+18,file-hash-sha1,da39a3ee5e6b4b0d3255bfef95601890afd80709,Coinminer,McAfee Labs,2023-08-15,2023-10-26
+19,ip-address,8.8.8.9,Botnet C2,Proofpoint,2023-10-18,2023-10-26
+20,domain,malware-command-control.ru,APT C2,FireEye,2023-09-01,2023-10-26
+21,file-hash-md5,c4ca4238a0b923820dcc509a6f75849b,Info Stealer,CrowdStrike Falcon,2023-10-05,2023-10-24
+22,ip-address,172.217.23.12,Phishing Host,OpenPhish,2023-10-23,2023-10-26
+23,domain,shady-download-site.info,Malware Distribution,Sucuri,2023-09-30,2023-10-25
+24,file-hash-sha256,c1945937aecd1205381a17c6742519e273413343b811a681457193cea3a339a5,Backdoor,F-Secure,2023-08-28,2023-10-23
+25,ip-address,185.180.143.213,Hacking Tool,Shodan,2023-10-09,2023-10-25
+26,domain,totally-legit-bank.com,Phishing,APWG,2023-10-19,2023-10-26
+27,file-hash-sha1,356a192b7913b04c54574d18c28d46e6395428ab,Exploit Kit,Mandiant,2023-09-11,2023-10-21
+28,ip-address,45.33.32.15,Scanner,GreyNoise,2023-05-20,2023-10-26
+29,domain,dodgy-investment.biz,Scam,Netcraft,2023-09-25,2023-10-24
+30,file-hash-md5,6cd3556deb0da54bca060b4c39479839,Spyware,ESET,2023-10-02,2023-10-26
+31,ip-address,107.170.222.87,Compromised Server,Bad Packets,2023-10-11,2023-10-25
+32,domain,untrusted-cdn.ws,Malware CDN,RiskIQ,2023-08-19,2023-10-26
+33,file-hash-sha256,a82a13830752582845347d48259727508269e46a94830114a09a4d7ee85600bc,Rootkit,Sophos Labs,2023-09-29,2023-10-25
+34,ip-address,95.141.32.41,Spam Source,SORBS,2023-09-08,2023-10-24
+35,domain,get-rich-quick.scam,Scam,US-CERT,2023-10-14,2023-10-23
+36,file-hash-sha1,b6589fc6ab0dc82cf12099d1c2d40ab994e8410c,Ransomware,Coveware,2023-10-16,2023-10-26
+37,ip-address,5.78.46.20,VPN,Public VPN List,2023-04-01,2023-10-26
+38,domain,random-warez.xyz,Piracy,Digital Citizens Alliance,2023-07-22,2023-10-25
+39,file-hash-md5,8277e0910d750195b448797616e091ad,DDoS Bot,Arbor Networks,2023-08-07,2023-10-22
+40,ip-address,74.125.224.71,Spam Source,Barracuda,2023-10-04,2023-10-25
+41,domain,bad-actor-domain.com,Malware C2,AlienVault OTX,2023-10-02,2023-10-27
+42,ip-address,103.224.182.212,Phishing,PhishTank,2023-09-16,2023-10-26
+43,file-hash-md5,a1b2c3d4e5f678901234567890abcdef,Banking Trojan,VirusTotal,2023-08-23,2023-10-27
+44,ip-address,209.85.220.41,Botnet,Shadowserver,2023-10-11,2023-10-27
+45,domain,click-here-for-virus.net,Malware Distribution,URLhaus,2023-09-29,2023-10-25
+46,file-hash-sha256,f1e2d3c4b5a678901234567890abcdef1234567890abcdef1234567890abcd,Password Stealer,Hybrid Analysis,2023-09-06,2023-10-26
+47,ip-address,198.51.100.101,Vulnerability Scanner,Abuse.ch,2023-10-23,2023-10-27
+48,domain,your-account-is-locked.com,Phishing,Internal Report,2023-10-21,2023-10-26
+49,file-hash-sha1,b2c3d4e5f678901234567890abcdef12345678,Cryptojacker,Internal Sandbox,2023-08-31,2023-10-23
+50,ip-address,185.176.220.55,Anonymizing Proxy,Tor Exit Node List,2023-07-02,2023-10-27
+51,domain,we-steal-your-data.io,Malware C2,Cisco Talos,2023-10-13,2023-10-27
+52,file-hash-md5,1234567890abcdef1234567890abcdef,Backdoor Trojan,Symantec DeepSight,2023-09-19,2023-10-25
+53,ip-address,203.0.113.113,IRC Bot,Spamhaus,2023-10-16,2023-10-26
+54,domain,free-stuff-here.org,Adware Tracker,AdGuard DNS Filter,2023-06-12,2023-10-27
+55,file-hash-sha256,234567890abcdef1234567890abcdef1234567890abcdef1234567890abcd,Wiper,Kaspersky Threat Intelligence,2023-10-04,2023-10-24
+56,ip-address,8.208.16.147,TOR Node,Dan.me.uk,2023-01-02,2023-10-27
+57,domain,pop-ups-galore.net,PUA,Malwarebytes,2023-09-22,2023-10-26
+58,file-hash-sha1,34567890abcdef1234567890abcdef12345678,Monero Miner,McAfee Labs,2023-08-16,2023-10-27
+59,ip-address,8.8.8.10,Botnet C2,Proofpoint,2023-10-19,2023-10-27
+60,domain,apt-c2-server.com,APT C2,FireEye,2023-09-02,2023-10-27
+61,file-hash-md5,9876543210fedcba9876543210fedcba,Credential Stealer,CrowdStrike Falcon,2023-10-06,2023-10-25
+62,ip-address,172.217.160.142,Phishing Host,OpenPhish,2023-10-24,2023-10-27
+63,domain,download-malware-here.info,Malware Distribution,Sucuri,2023-10-01,2023-10-26
+64,file-hash-sha256,34567890abcdef1234567890abcdef1234567890abcdef1234567890abcde,Remote Access Trojan,F-Secure,2023-08-29,2023-10-24
+65,ip-address,159.65.92.147,Hacking Tool,Shodan,2023-10-10,2023-10-26
+66,domain,free-money-no-scam.com,Phishing,APWG,2023-10-20,2023-10-27
+67,file-hash-sha1,4567890abcdef1234567890abcdef123456789,Nuclear Exploit Kit,Mandiant,2023-09-12,2023-10-22
+68,ip-address,45.77.51.121,Scanner,GreyNoise,2023-05-21,2023-10-27
+69,domain,crypto-doubler.net,Scam,Netcraft,2023-09-26,2023-10-25
+70,file-hash-md5,fedcba9876543210fedcba9876543210,Pegasus Spyware,ESET,2023-10-03,2023-10-27
+71,ip-address,138.68.167.199,Compromised Server,Bad Packets,2023-10-12,2023-10-26
+72,domain,malicious-content-delivery.ws,Malware CDN,RiskIQ,2023-08-20,2023-10-27
+73,file-hash-sha256,4567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef,ZeroAccess Rootkit,Sophos Labs,2023-09-30,2023-10-26
+74,ip-address,92.242.140.21,Spam Source,SORBS,2023-09-09,2023-10-25
+75,domain,your-package-is-delayed.scam,Scam,US-CERT,2023-10-15,2023-10-24
+76,file-hash-sha1,567890abcdef1234567890abcdef1234567890,Locky Ransomware,Coveware,2023-10-17,2023-10-27
+77,ip-address,104.236.166.95,VPN,Public VPN List,2023-04-02,2023-10-27
+78,domain,free-movie-downloads.xyz,Piracy,Digital Citizens Alliance,2023-07-23,2023-10-26
+79,file-hash-md5,7766554433221100ffeeddccbbaa9988,Mirai Bot,Arbor Networks,2023-08-08,2023-10-23
+80,ip-address,64.233.167.94,Spam Source,Barracuda,2023-10-05,2023-10-26
+81,domain,fake-security-alert.io,Malware C2,AlienVault OTX,2023-10-03,2023-10-28
+82,ip-address,139.59.59.198,Phishing,PhishTank,2023-09-17,2023-10-27
+83,file-hash-md5,abcdef1234567890abcdef1234567890,Zeus Trojan,VirusTotal,2023-08-24,2023-10-28
+84,ip-address,216.58.196.174,Botnet,Shadowserver,2023-10-12,2023-10-28
+85,domain,update-your-browser-now.net,Malware Distribution,URLhaus,2023-09-30,2023-10-26
+86,file-hash-sha256,567890abcdef1234567890abcdef1234567890abcdef1234567890abcdeff,InfoStealer.Gampass,Hybrid Analysis,2023-09-07,2023-10-27
+87,ip-address,192.168.1.254,Internal Scanner,Internal Report,2023-10-24,2023-10-28
+88,domain,secure-login-portal.com.co,Phishing,Internal Report,2023-10-22,2023-10-27
+89,file-hash-sha1,67890abcdef1234567890abcdef1234567890a,XMRig Miner,Internal Sandbox,2023-09-01,2023-10-24
+90,ip-address,199.59.243.222,Anonymizing Proxy,Tor Exit Node List,2023-07-03,2023-10-28
+91,domain,driveby-download-site.org,Malware C2,Cisco Talos,2023-10-14,2023-10-28
+92,file-hash-md5,234567890abcdef1234567890abcdef1,DarkComet RAT,Symantec DeepSight,2023-09-20,2023-10-26
+93,ip-address,203.0.113.254,IRC Bot,Spamhaus,2023-10-17,2023-10-27
+94,domain,track-everything-you-do.net,Adware Tracker,AdGuard DNS Filter,2023-06-13,2023-10-28
+95,file-hash-sha256,67890abcdef1234567890abcdef1234567890abcdef1234567890abcdefff,NotPetya,Kaspersky Threat Intelligence,2023-10-05,2023-10-25
+96,ip-address,172.67.149.26,TOR Node,Dan.me.uk,2023-01-03,2023-10-28
+97,domain,your-pc-is-infected.net,PUA,Malwarebytes,2023-09-23,2023-10-27
+98,file-hash-sha1,7890abcdef1234567890abcdef1234567890ab,ClipBanker,McAfee Labs,2023-08-17,2023-10-28
+99,ip-address,8.8.8.11,Botnet C2,Proofpoint,2023-10-20,2023-10-28
+100,domain,chinese-apt-c2.cn,APT C2,FireEye,2023-09-03,2023-10-28

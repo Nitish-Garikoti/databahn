@@ -1,0 +1,101 @@
+asset_id,asset_type,asset_name,owner,ip_address,mac_address,location,purchase_date,warranty_expiry_date,status
+1,Laptop,MacBook Pro,James Smith,192.168.1.10,00:1A:2B:3C:4D:5E,New York,2023-01-15,2026-01-14,Active
+2,Server,Dell PowerEdge,IT Department,10.0.0.5,01:2B:3C:4D:5E:6F,Data Center A,2022-05-20,2027-05-19,Active
+3,Desktop,HP EliteDesk,Jane Doe,192.168.1.11,02:3C:4D:5E:6F:7G,New York,2023-03-10,2026-03-09,Active
+4,Router,Cisco 2901,Network Team,10.0.0.1,03:4D:5E:6F:7G:8H,Data Center A,2021-11-01,2026-10-31,Active
+5,Printer,Brother HL-L2395DW,Office Admin,192.168.1.12,04:5E:6F:7G:8H:9I,New York,2023-02-28,2025-02-27,Active
+6,Laptop,Lenovo ThinkPad,Robert Johnson,192.168.1.13,05:6F:7G:8H:9I:A0,Chicago,2022-12-05,2025-12-04,Active
+7,Server,HPE ProLiant,IT Department,10.0.0.6,06:7G:8H:9I:A0:B1,Data Center B,2022-08-15,2027-08-14,Active
+8,Desktop,Dell OptiPlex,Emily Williams,192.168.1.14,07:8H:9I:A0:B1:C2,Chicago,2023-04-22,2026-04-21,Active
+9,Switch,Netgear GS724T,Network Team,10.0.0.2,08:9I:A0:B1:C2:D3,Data Center A,2021-10-18,2026-10-17,Active
+10,Mobile,iPhone 13,Michael Brown,192.168.1.15,09:A0:B1:C2:D3:E4,Remote,2023-05-30,2025-05-29,Active
+11,Laptop,HP Spectre x360,Jessica Garcia,192.168.1.16,10:B1:C2:D3:E4:F5,San Francisco,2023-01-20,2026-01-19,Active
+12,Server,IBM System x,IT Department,10.0.0.7,11:C2:D3:E4:F5:G6,Data Center C,2022-09-10,2027-09-09,Active
+13,Desktop,Apple iMac,David Miller,192.168.1.17,12:D3:E4:F5:G6:H7,San Francisco,2023-06-12,2026-06-11,Active
+14,Firewall,Palo Alto PA-220,Security Team,10.0.0.3,13:E4:F5:G6:H7:I8,Data Center A,2022-02-14,2027-02-13,Active
+15,Tablet,iPad Pro,Sarah Rodriguez,192.168.1.18,14:F5:G6:H7:I8:J9,Remote,2023-07-01,2025-06-30,Active
+16,Laptop,Microsoft Surface,Daniel Martinez,192.168.1.19,15:G6:H7:I8:J9:K0,New York,2022-11-25,2025-11-24,Active
+17,Server,Oracle Server X8-2,IT Department,10.0.0.8,16:H7:I8:J9:K0:L1,Data Center B,2022-10-05,2027-10-04,Active
+18,Desktop,Lenovo IdeaCentre,Chris Hernandez,192.168.1.20,17:I8:J9:K0:L1:M2,Chicago,2023-08-18,2026-08-17,Active
+19,Access Point,Ubiquiti UniFi AP,Network Team,10.0.0.4,18:J9:K0:L1:M2:N3,New York Office,2023-03-05,2026-03-04,Active
+20,VoIP Phone,Polycom VVX 450,Elizabeth Lopez,192.168.1.21,19:K0:L1:M2:N3:O4,New York,2023-04-15,2026-04-14,Active
+21,Laptop,Dell XPS 15,William Gonzalez,192.168.1.22,20:L1:M2:N3:O4:P5,San Francisco,2023-09-01,2026-08-31,Active
+22,Server,Supermicro SuperServer,IT Department,10.0.0.9,21:M2:N3:O4:P5:Q6,Data Center C,2022-12-20,2027-12-19,Active
+23,Desktop,HP Pavilion,Linda Perez,192.168.1.23,22:N3:O4:P5:Q6:R7,Remote,2023-10-10,2026-10-09,Active
+24,Router,Juniper MX204,Network Team,10.0.0.10,23:O4:P5:Q6:R7:S8,Data Center B,2022-06-25,2027-06-24,Active
+25,Projector,Epson PowerLite,Conference Room,N/A,N/A,New York CR-1,2023-01-30,2026-01-29,Active
+26,Laptop,Asus ZenBook,Joseph Wilson,192.168.1.24,24:P5:Q6:R7:S8:T9,Chicago,2023-11-05,2026-11-04,In-Repair
+27,Server,Cisco UCS C220,IT Department,10.0.0.11,25:Q6:R7:S8:T9:U0,Data Center A,2023-02-18,2028-02-17,Active
+28,Desktop,Acer Aspire,Susan Anderson,192.168.1.25,26:R7:S8:T9:U0:V1,San Francisco,2023-12-15,2026-12-14,Active
+29,Switch,Arista 7050SX,Network Team,10.0.0.12,27:S8:T9:U0:V1:W2,Data Center C,2022-08-30,2027-08-29,Active
+30,Mobile,Samsung Galaxy S21,Thomas Taylor,192.168.1.26,28:T9:U0:V1:W2:X3,Remote,2023-06-20,2025-06-19,Active
+31,Laptop,Razer Blade 15,Charles Moore,192.168.1.27,29:U0:V1:W2:X3:Y4,New York,2023-01-25,2026-01-24,Retired
+32,Server,Dell PowerVault,IT Department,10.0.0.13,30:V1:W2:X3:Y4:Z5,Data Center B,2021-09-15,2026-09-14,Active
+33,Desktop,Microsoft Surface Studio,Patricia Jackson,192.168.1.28,31:W2:X3:Y4:Z5:A6,San Francisco,2023-02-28,2026-02-27,Active
+34,Firewall,Fortinet FortiGate,Security Team,10.0.0.14,32:X3:Y4:Z5:A6:B7,Data Center B,2022-04-12,2027-04-11,Active
+35,Tablet,Samsung Galaxy Tab S7,Christopher White,192.168.1.29,33:Y4:Z5:A6:B7:C8,Remote,2023-08-11,2025-08-10,Active
+36,Laptop,HP Envy 13,Barbara Harris,192.168.1.30,34:Z5:A6:B7:C8:D9,Chicago,2022-10-20,2025-10-19,Active
+37,Server,Lenovo ThinkSystem,IT Department,10.0.0.15,35:A6:B7:C8:D9:E0,Data Center A,2023-03-22,2028-03-21,Active
+38,Desktop,HP Omen,Matthew Martin,192.168.1.31,36:B7:C8:D9:E0:F1,Remote,2023-09-25,2026-09-24,Active
+39,Access Point,Cisco Aironet,Network Team,10.0.0.16,37:C8:D9:E0:F1:G2,Chicago Office,2023-05-14,2026-05-13,Active
+40,VoIP Phone,Yealink T46S,Nancy Thompson,192.168.1.32,38:D9:E0:F1:G2:H3,Chicago,2023-06-30,2026-06-29,Active
+41,Laptop,MacBook Air,Anthony Garcia,192.168.1.33,39:E0:F1:G2:H3:I4,New York,2023-07-15,2026-07-14,Active
+42,Server,HPE Integrity,IT Department,10.0.0.17,40:F1:G2:H3:I4:J5,Data Center C,2021-11-30,2026-11-29,Active
+43,Desktop,Dell Precision,Karen Martinez,192.168.1.34,41:G2:H3:I4:J5:K6,San Francisco,2023-08-20,2026-08-19,Active
+44,Router,MikroTik CCR1009,Network Team,10.0.0.18,42:H3:I4:J5:K6:L7,Data Center C,2022-01-10,2027-01-09,Active
+45,Printer,HP LaserJet Pro,Office Admin,192.168.1.35,43:I4:J5:K6:L7:M8,Chicago,2023-04-05,2026-04-04,Active
+46,Laptop,Acer Swift 3,Steven Robinson,192.168.1.36,44:J5:K6:L7:M8:N9,Remote,2023-10-12,2026-10-11,Active
+47,Server,IBM Power System,IT Department,10.0.0.19,45:K6:L7:M8:N9:O0,Data Center B,2022-03-18,2027-03-17,Active
+48,Desktop,Asus ROG Strix,Laura Clark,192.168.1.37,46:L7:M8:N9:O0:P1,Remote,2023-11-18,2026-11-17,Active
+49,Switch,Dell PowerSwitch,Network Team,10.0.0.20,47:M8:N9:O0:P1:Q2,Data Center A,2023-07-28,2028-07-27,Active
+50,Mobile,Google Pixel 6,Kevin Lewis,192.168.1.38,48:N9:O0:P1:Q2:R3,Remote,2023-09-05,2025-09-04,Active
+51,Laptop,Lenovo Yoga,Betty Rodriguez,192.168.1.39,49:O0:P1:Q2:R3:S4,New York,2023-05-22,2026-05-21,Active
+52,Server,Fujitsu PRIMERGY,IT Department,10.0.0.21,50:P1:Q2:R3:S4:T5,Data Center A,2022-07-14,2027-07-13,Active
+53,Desktop,Lenovo ThinkCentre,Mark Walker,192.168.1.40,51:Q2:R3:S4:T5:U6,New York,2023-06-18,2026-06-17,Active
+54,Router,TP-Link Archer C7,Network Team,192.168.2.1,52:R3:S4:T5:U6:V7,Lab,2023-01-10,2026-01-09,Active
+55,Printer,Canon PIXMA,Office Admin,192.168.1.41,53:S4:T5:U6:V7:W8,San Francisco,2023-08-08,2025-08-07,Active
+56,Laptop,Samsung Galaxy Book,Helen Hall,192.168.1.42,54:T5:U6:V7:W8:X9,Chicago,2023-02-15,2026-02-14,Retired
+57,Server,Dell EMC VxRail,IT Department,10.0.0.22,55:U6:V7:W8:X9:Y0,Data Center C,2023-04-25,2028-04-24,Active
+58,Desktop,Acer Veriton,Paul Allen,192.168.1.43,56:V7:W8:X9:Y0:Z1,Chicago,2023-10-28,2026-10-27,Active
+59,Switch,Juniper EX4300,Network Team,10.0.0.23,57:W8:X9:Y0:Z1:A2,Data Center B,2022-09-20,2027-09-19,Active
+60,Mobile,OnePlus 9,Sharon Young,192.168.1.44,58:X9:Y0:Z1:A2:B3,Remote,2023-07-22,2025-07-21,Active
+61,Laptop,Microsoft Surface Laptop,Jason King,192.168.1.45,59:Y0:Z1:A2:B3:C4,San Francisco,2023-03-12,2026-03-11,Active
+62,Server,HPE Apollo,IT Department,10.0.0.24,60:Z1:A2:B3:C4:D5,Data Center B,2023-01-05,2028-01-04,Active
+63,Desktop,Dell Vostro,Sandra Wright,192.168.1.46,61:A2:B3:C4:D5:E6,New York,2023-04-18,2026-04-17,Active
+64,Firewall,Check Point 730,Security Team,10.0.0.25,62:B3:C4:D5:E6:F7,Data Center C,2022-05-30,2027-05-29,Active
+65,Tablet,Amazon Fire HD 10,Joshua Lopez,192.168.1.47,63:C4:D5:E6:F7:G8,Remote,2023-09-14,2025-09-13,Active
+66,Laptop,Dell Latitude,Cynthia Hill,192.168.1.48,64:D5:E6:F7:G8:H9,Chicago,2022-12-30,2025-12-29,Active
+67,Server,Supermicro MicroBlade,IT Department,10.0.0.26,65:E6:F7:G8:H9:I0,Data Center A,2023-06-05,2028-06-04,Active
+68,Desktop,Apple Mac mini,Amy Scott,192.168.1.49,66:F7:G8:H9:I0:J1,San Francisco,2023-08-28,2026-08-27,Active
+69,Access Point,Ruckus R710,Network Team,10.0.0.27,67:G8:H9:I0:J1:K2,San Francisco Office,2023-07-10,2026-07-09,Active
+70,VoIP Phone,Avaya J179,Larry Green,192.168.1.50,68:H9:I0:J1:K2:L3,San Francisco,2023-09-20,2026-09-19,Active
+71,Laptop,HP EliteBook,Rebecca Adams,192.168.1.51,69:I0:J1:K2:L3:M4,New York,2023-11-22,2026-11-21,Active
+72,Server,Lenovo ThinkAgile,IT Department,10.0.0.28,70:J1:K2:L3:M4:N5,Data Center B,2023-08-15,2028-08-14,Active
+73,Desktop,Acer Chromebase,Justin Baker,192.168.1.52,71:K2:L3:M4:N5:O6,Remote,2023-12-25,2026-12-24,Active
+74,Router,D-Link DIR-867,Network Team,192.168.3.1,72:L3:M4:N5:O6:P7,Test Lab,2023-02-20,2026-02-19,Active
+75,Projector,ViewSonic PA503S,Conference Room,N/A,N/A,Chicago CR-1,2023-03-28,2026-03-27,Active
+76,Laptop,Asus VivoBook,Pamela Nelson,192.168.1.53,73:M4:N5:O6:P7:Q8,Chicago,2023-01-08,2026-01-07,In-Repair
+77,Server,Cisco HyperFlex,IT Department,10.0.0.29,74:N5:O6:P7:Q8:R9,Data Center C,2023-04-10,2028-04-09,Active
+78,Desktop,HP EliteOne,Dennis Carter,192.168.1.54,75:O6:P7:Q8:R9:S0,New York,2023-11-30,2026-11-29,Active
+79,Switch,HPE OfficeConnect,Network Team,10.0.0.30,76:P7:Q8:R9:S0:T1,New York Office,2022-11-11,2027-11-10,Active
+80,Mobile,iPhone SE,Rachel Mitchell,192.168.1.55,77:Q8:R9:S0:T1:U2,Remote,2023-10-02,2025-10-01,Active
+81,Laptop,Dell Inspiron,Frank Perez,192.168.1.56,78:R9:S0:T1:U2:V3,San Francisco,2023-05-10,2026-05-09,Retired
+82,Server,Oracle Private Cloud Appliance,IT Department,10.0.0.31,79:S0:T1:U2:V3:W4,Data Center A,2022-10-25,2027-10-24,Active
+83,Desktop,Lenovo Legion,Brenda Roberts,192.168.1.57,80:T1:U2:V3:W4:X5,Remote,2023-07-18,2026-07-17,Active
+84,Firewall,Sophos XG 106,Security Team,10.0.0.32,81:U2:V3:W4:X5:Y6,Data Center A,2023-03-01,2028-02-29,Active
+85,Tablet,Microsoft Surface Go,Walter Turner,192.168.1.58,82:V3:W4:X5:Y6:Z7,Remote,2023-06-28,2025-06-27,Active
+86,Laptop,HP Pavilion Gaming,Jerry Phillips,192.168.1.59,83:W4:X5:Y6:Z7:A8,Chicago,2023-08-05,2026-08-04,Active
+87,Server,Dell PowerEdge R740,IT Department,10.0.0.33,84:X5:Y6:Z7:A8:B9,Data Center B,2023-09-12,2028-09-11,Active
+88,Desktop,Apple iMac Pro,Andrea Campbell,192.168.1.60,85:Y6:Z7:A8:B9:C0,San Francisco,2023-10-20,2026-10-19,Active
+89,Access Point,Aerohive AP250,Network Team,10.0.0.34,86:Z7:A8:B9:C0:D1,New York Office,2023-09-08,2026-09-07,Active
+90,VoIP Phone,Grandstream GXP2170,Debra Parker,192.168.1.61,87:A8:B9:C0:D1:E2,Chicago,2023-11-15,2026-11-14,Active
+91,Laptop,Lenovo ThinkPad X1 Carbon,George Evans,192.168.1.62,88:B9:C0:D1:E2:F3,New York,2023-12-01,2026-11-30,Active
+92,Server,HPE SimpliVity,IT Department,10.0.0.35,89:C0:D1:E2:F3:G4,Data Center C,2023-10-15,2028-10-14,Active
+93,Desktop,Dell XPS Desktop,Carol Edwards,192.168.1.63,90:D1:E2:F3:G4:H5,Remote,2023-01-28,2026-01-27,Active
+94,Router,Netgate 1100,Network Team,192.168.4.1,91:E2:F3:G4:H5:I6,Home Office,2023-04-30,2026-04-29,Active
+95,Printer,Xerox VersaLink B405,Office Admin,192.168.1.64,92:F3:G4:H5:I6:J7,New York,2023-07-25,2026-07-24,Active
+96,Laptop,Asus ProArt StudioBook,Russell Collins,192.168.1.65,93:G4:H5:I6:J7:K8,San Francisco,2023-02-12,2026-02-11,Active
+97,Server,IBM LinuxONE,IT Department,10.0.0.36,94:H5:I6:J7:K8:L9,Data Center A,2023-11-08,2028-11-07,Active
+98,Desktop,Lenovo ThinkStation,Cheryl Stewart,192.168.1.66,95:I6:J7:K8:L9:M0,Chicago,2023-03-25,2026-03-24,Active
+99,Switch,Cisco Catalyst 9300,Network Team,10.0.0.37,96:J7:K8:L9:M0:N1,Data Center B,2023-08-22,2028-08-21,Active
+100,Mobile,Google Pixel 7 Pro,Henry Sanchez,192.168.1.67,97:K8:L9:M0:N1:O2,Remote,2023-12-20,2025-12-19,Active

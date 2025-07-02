@@ -1,0 +1,37 @@
+# Ignore build artifacts
+/dist/
+/build/
+/target/
+
+# Ignore dependency caches
+/node_modules/
+/vendor/
+/packages/
+
+# Ignore log and temporary files
+*.log
+*.tmp
+*.temp
+
+# Ignore environment and secrets files
+.env
+config.local.json
+secrets.yaml
+
+# Ignore operating system generated files
+.DS_Store
+Thumbs.db
+
+# Ignore personal IDE configuration files (example for VS Code)
+.vscode/
+
+# Add more specific patterns below if needed for your project:
+
+# Example: Ignore all files with a .o extension
+*.o
+
+# Example: Ignore everything inside a 'logs' directory
+logs/
+
+# Example: Ignore all files ending in .bak
+*.bak
