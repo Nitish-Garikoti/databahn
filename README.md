@@ -27,25 +27,25 @@ databahn
 
 * databahn/: The main source code directory for the application.
 
-data/: Contains data-related files.
+* data/: Contains data-related files.
 
-mcp_servers/: holds logic for MCP servers and data hosted on the mcp servers
+* mcp_servers/: holds logic for MCP servers and data hosted on the mcp servers
 
-scripts/: contains agent and main
+* scripts/: contains agent and main
 
-tools/: Contains various tools used by the application.
+* tools/: Contains various tools used by the application.
 
-utils/: Holds utility functions.
+* utils/: Holds utility functions.
 
-test/: Contains tests for the project.
+* test/: Contains tests for the project.
 
-app.py: The main entry point for the FastAPI application.
+* app.py: The main entry point for the FastAPI application.
 
-main.py: Contains the primary logic, including calls to the orchestrator, dispatcher, and response handlers.
+* main.py: Contains the primary logic, including calls to the orchestrator, dispatcher, and response handlers.
 
-checklist.md: A markdown file outlining potential improvements to productionize the codebase.
+* checklist.md: A markdown file outlining potential improvements to productionize the codebase.
 
-pyproject.toml: The project's dependency and configuration file used by Poetry.
+* pyproject.toml: The project's dependency and configuration file used by Poetry.
 
 This project demonstrates a Python application that can fetch and join information from multiple cybersecurity-themed data sources to answer a user's query. It simulates a real-world scenario where data might be distributed across various tables and systems.
 
