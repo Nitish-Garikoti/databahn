@@ -57,7 +57,7 @@ Follow these steps to get the application running locally.
 1. Setup Python Environment
 First, create and activate a Python virtual environment.
 ```
-Bash
+# Bash
 # Create a virtual environment using Python 3.12
 python3.12 -m venv .venv
 source .venv/bin/activate
@@ -66,14 +66,14 @@ source .venv/bin/activate
 2. Install Dependencies
 Use Poetry to install the required project dependencies.
 ```
-Bash
+# Bash
 poetry install
 ```
 
 3. Configure Environment Variables
 Create a .env file in the root directory of the project and add your OpenAI API key.
 ```
-Code snippet
+# Code snippet
 OPENAI_API_KEY="your-secret-key-here"
 ```
 
@@ -83,7 +83,7 @@ To use the Cloudflare server:
 Ensure you have a Cloudflare account.
 In a separate terminal, run the following command to authenticate your session:
 ```
-Bash
+# Bash
 npx mcp-remote [https://browser.mcp.cloudflare.com/sse](https://browser.mcp.cloudflare.com/sse)
 ```
 To NOT use the Cloudflare server:
@@ -92,7 +92,7 @@ In app.py, find and comment out the lines related to "cloudflare_browser_params"
 5. Start the Application
 Finally, start the FastAPI server using Uvicorn.
 ```
-Bash
+# Bash
 poetry run uvicorn app:app --port 8001
 ```
 
