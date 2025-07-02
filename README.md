@@ -99,13 +99,7 @@ poetry run uvicorn app:app --port 8001
 The application will now be running at http://127.0.0.1:8001. 🚀
 
 6. use the example curl call:
-   ```
-   curl -X POST \
-  http://your-api-endpoint.com/query \
-  -H 'Content-Type: application/json' \
-  -d '{
-    "query": "give me a short summary of content in url https://nvd.nist.gov/vuln/detail/CVE-2025-6875",
-    "thread_id": "123"
-}'
+```
+curl -X POST http://127.0.0.1:8001/query -H 'Content-Type: application/json' -d '{"query": "give me a short summary of content in url https://nvd.nist.gov/vuln/detail/CVE-2025-6875", "thread_id": "123"}'
 ```
 Note for this repo - thread_id is synonymous to user_id which has to be part of input request to maintain states per user(based on user_id/thread_id)
