@@ -1,70 +1,97 @@
-# Cybersecurity Data Retriever
+This is the complete README.md file content based on your project details.
 
+Databahn
+This project is a FastAPI application designed to orchestrate and dispatch tasks.
 
-cybersecurity_data_retriever/
-|-- data/
-|   |-- endpoint_security.csv
-|   |-- network_traffic.csv
-|   |-- vulnerability_scans.csv
-|   |-- user_activity.csv
-|   |-- authentication_logs.csv
-|   |-- threat_intelligence.csv
-|   |-- incident_reports.csv
-|   |-- firewall_logs.csv
-|   |-- dns_logs.csv
-|   `-- asset_inventory.csv
-|-- mcp_server/
-|   |-- mcp_server.py
-|   `-- mcp_data.py
-|-- main.py
-`-- README.md
+Folder Structure
+Here's a breakdown of the key files and directories in this project:
 
+.
+├── databahn/
+│   ├── __pycache__/
+│   ├── data/
+│   ├── mcp_servers/
+│   ├── scripts/
+│   ├── tools/
+│   ├── utils/
+│   ├── __init__.py
+│   └── test/
+├── .env
+├── .gitignore
+├── .python-version
+├── app.py
+├── base.py
+├── checklist.md
+├── main.py
+├── poetry.lock
+└── pyproject.toml
+databahn/: The main source code directory for the application.
 
-This project demonstrates a Python application that can fetch and join information from multiple cybersecurity-themed data sources to answer a user's query. It simulates a real-world scenario where data might be distributed across various tables and systems.
+data/: Contains data-related files.
 
-## Project Structure
+mcp_servers/: Likely holds logic for MCP (Mission Critical Protocol) servers.
 
-- `data/`: This directory contains 10 sample CSV files, each representing a different cybersecurity data source.
-- `mcp_server/`: This directory contains a simple Flask-based "Model Context Protocol" (MCP) server.
-    - `mcp_server.py`: The main file for the MCP server.
-    - `mcp_data.py`: A helper file that provides data to the MCP server.
-- `main.py`: The main application that takes a user query, processes it, and fetches the relevant information.
-- `README.md`: This file.
+scripts/: For miscellaneous helper scripts.
 
-## How to Run the Project
+tools/: Contains various tools used by the application.
 
-1.  **Install the dependencies:**
+utils/: Holds utility functions.
 
-    ```bash
-    pip install pandas flask
-    ```
+test/: Contains tests for the project.
 
-2.  **Start the MCP Server:**
+app.py: The main entry point for the FastAPI application.
 
-    Open a terminal and run the following command:
+main.py: Contains the primary logic, including calls to the orchestrator, dispatcher, and response handlers.
 
-    ```bash
-    python mcp_server/mcp_server.py
-    ```
+checklist.md: A markdown file outlining potential improvements to productionize the codebase.
 
-    The server will start on `http://127.0.0.1:5000`.
+pyproject.toml: The project's dependency and configuration file used by Poetry.
 
-3.  **Run the Main Application:**
+How to Run
+Follow these steps to get the application running locally.
 
-    Open another terminal and run the following command:
+1. Setup Python Environment
+First, create and activate a Python virtual environment.
 
-    ```bash
-    python main.py
-    ```
+Bash
 
-    The application will prompt you to enter a query.
+# Create a virtual environment using Python 3.12
+python3.12 -m venv .venv
 
-## Example Queries
+# Activate the virtual environment
+source .venv/bin/activate
+2. Install Dependencies
+Use Poetry to install the required project dependencies.
 
-- "Show all critical vulnerabilities."
-- "What are the latest threat intelligence feeds?"
-- "List all incidents with a 'high' priority."
-- "Show all firewall logs from '192.168.1.100'."
-- "What are the DNS requests for 'malicious.com'?"
+Bash
 
-</code></pre>
+poetry install
+3. Configure Environment Variables
+Create a .env file in the root directory of the project and add your OpenAI API key.
+
+Code snippet
+
+OPENAI_API_KEY="your-secret-key-here"
+4. Configure Cloudflare MCP Server (Optional)
+This project can integrate with a Cloudflare MCP server.
+
+To use the Cloudflare server:
+
+Ensure you have a Cloudflare account.
+
+In a separate terminal, run the following command to authenticate your session:
+
+Bash
+
+npx mcp-remote [https://browser.mcp.cloudflare.com/sse](https://browser.mcp.cloudflare.com/sse)
+To NOT use the Cloudflare server:
+
+In app.py, find and comment out the lines related to "cloudflare_browser_params", "cf_read", and "cf_write".
+
+5. Start the Application
+Finally, start the FastAPI server using Uvicorn.
+
+Bash
+
+poetry run uvicorn app:app --port 8001
+The application will now be running at http://127.0.0.1:8001. 🚀
