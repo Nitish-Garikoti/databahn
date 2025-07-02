@@ -1,5 +1,5 @@
-## Folder Structure
-# Data retrival and response
+# Folder Structure
+## Data retrival and response
 
 ```
 databahn
@@ -50,7 +50,7 @@ databahn
 This project demonstrates a Python application that can fetch and join information from multiple cybersecurity-themed data sources to answer a user's query. It simulates a real-world scenario where data might be distributed across various tables and systems.
 
 
-## How to run:
+# How to run:
 
 Follow these steps to get the application running locally.
 
