@@ -25,13 +25,13 @@ databahn
 └── uv.lock
 ```
 
-databahn/: The main source code directory for the application.
+* databahn/: The main source code directory for the application.
 
 data/: Contains data-related files.
 
-mcp_servers/: Likely holds logic for MCP (Mission Critical Protocol) servers.
+mcp_servers/: holds logic for MCP servers and data hosted on the mcp servers
 
-scripts/: For miscellaneous helper scripts.
+scripts/: contains agent and main
 
 tools/: Contains various tools used by the application.
 
@@ -56,18 +56,15 @@ Follow these steps to get the application running locally.
 
 1. Setup Python Environment
 First, create and activate a Python virtual environment.
-
 ```
 Bash
 # Create a virtual environment using Python 3.12
 python3.12 -m venv .venv
+source .venv/bin/activate
 ```
 
-# Activate the virtual environment
-source .venv/bin/activate
 2. Install Dependencies
 Use Poetry to install the required project dependencies.
-
 ```
 Bash
 poetry install
