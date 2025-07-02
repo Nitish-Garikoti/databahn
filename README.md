@@ -59,8 +59,8 @@ First, create and activate a Python virtual environment.
 ```
 # Bash
 # Create a virtual environment using Python 3.12
-python3.12 -m venv .venv
-source .venv/bin/activate
+python3.12 -m venv ~/env/<your_venv_name>
+source ~/env/bin/activate
 ```
 
 2. Install Dependencies
